@@ -1,0 +1,36 @@
+body {
+  padding-top: 54px;
+}
+
+/* Body*/
+p {
+}
+
+img{
+  max-width: 100%;
+  width:100%;
+}
+
+.curriculumImage{
+  margin-top: 12px;
+}
+
+
+/* Image row */
+#image{
+  margin-top: 15px;
+  margin-right: -35px;
+  margin-left: -35px;
+}
+
+
+
+
+
+
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
